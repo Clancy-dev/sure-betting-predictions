@@ -1060,7 +1060,7 @@ html {
 
 body {
   font-family: Arial, sans-serif;
-  background-color: orangered;
+  background-color: #f4f4f4;
 }
 
 .container {
@@ -1072,7 +1072,7 @@ body {
 
 /* Header */
 .header {
-  background-color: #222;
+  background-color: purple;
   color: #fff;
   padding: 15px 0;
 }
